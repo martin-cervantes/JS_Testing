@@ -7,10 +7,6 @@
 - Javascript
 - Jesp
 
-## :mag: Live Demo
-
-[Live Demo Link](https://mcervantes71.github.io/JS_Testing/dist/)
-
 ## :computer: Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -30,9 +26,11 @@ To get a local copy up and running follow these simple steps.
   $ cd JS_Testing
 ```
 
-### Usage
+### Testing
 
-In any browser, open the index.html file.
+```sh
+  $ npm run test
+```
 
 ## :busts_in_silhouette: Authors
 
