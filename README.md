@@ -1,4 +1,5 @@
 # JS Testing
+For this project, the main idea is simply that you start working on your code by writing tests before writing the code that is being tested. Evidence-based development is very important in the modern development landscape.
 
 ![screenshot](./Screenshot.png)
 
